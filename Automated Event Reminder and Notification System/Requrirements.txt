@@ -1,0 +1,3 @@
+Need service account details created using google console.
+It should be in Google Excel sheet format.
+In Share option add service account credentials detail email in edit option.
