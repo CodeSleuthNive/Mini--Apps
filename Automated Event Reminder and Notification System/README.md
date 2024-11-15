@@ -2,13 +2,16 @@
 This project is a Python-based automation tool designed to send email alerts for upcoming birthdays and festivals based on data in Google Sheets. It connects to specified Google Sheets, retrieves event information, and sends a formatted email alert to designated recipients.
 
 ## **Features**
-#### Automated Event Retrieval: 
+**Automated Event Retrieval:**
     Connects to multiple Google Sheets to fetch data for specified events based on the current and upcoming months.
-#### Email Alerts: 
+    
+**Email Alerts:** 
     Sends customized email alerts with details of events happening soon.
-#### Date Matching: 
+    
+**Date Matching:**
     Supports single-day and date-range events, notifying the team if they fall within the next 7 days.
-#### Customizable Configurations: 
+    
+**Customizable Configurations:** 
     Easily configure sheets, recipient emails, and notification rules.
 
 ## **Prerequisites**
